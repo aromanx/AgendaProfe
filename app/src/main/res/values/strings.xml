@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgendaProfe</string>
+    <string name="todo">TODO</string>
+    <string name="add_user">Agregar</string>
+</resources>
